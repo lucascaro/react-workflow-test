@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "alt": "^0.17.4",
+    "autopolyfiller-loader": "^0.3.3",
     "babel-runtime": "^5.8.25",
     "history": "^1.12.5",
     "react": "0.14.0",
